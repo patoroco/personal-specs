@@ -12,4 +12,4 @@ pod repo add patoroco-specs git@github.com:patoroco/personal-specs.git
 After that you can search as usual (i.e. `pod search admob`).
 
 ## Do you recommend a good presentation about Cocoa Pods?
-Sure! I used [**[these slides]**](http://maroto.me/ttzc) to my talk on Codemotion talking about Cocoa Pods (in spanish).
+Sure! I used [**[these slides]**](http://maroto.me/ttzc) in my talk on Codemotion talking about Cocoa Pods (in spanish).
